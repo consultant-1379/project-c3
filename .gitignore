@@ -1,0 +1,8 @@
+**/*.iml
+**/.idea
+**/.mvn
+security-reporting-tool/code-coverage-aggregate/target/
+security-reporting-tool/rest-client/target/
+security-reporting-tool/rest-server/target/
+security-reporting-tool/dao/target/
+security-reporting-tool/target/

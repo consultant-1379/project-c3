@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "ericssonSqUrl1",
+      "type": "java.lang.String",
+      "description": "URL of one of the Ericsson-ran SonarQube instances."
+  }
+] }

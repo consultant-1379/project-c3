@@ -1,0 +1,1254 @@
+{
+  "repos": [
+    {
+      "_id": "611664808194045df90af63e",
+      "cxp": "CXP 903 1393",
+      "name": "Node Discovery Module",
+      "uri": "com.ericsson.oss.mediation.nodediscovery/node-discovery-module",
+      "filters": {
+        "CSA": "Mediation Adaptions",
+        "CRA": "Shared Mediation Components",
+        "CNA": "Shared Node Mediation"
+      },
+      "securityReportTotals": {
+        "owaspReportDataList": [
+          {
+            "category": "a1",
+            "vulnerabilities": 5,
+            "inReviewSecurityHotspots": 0,
+            "toReviewSecurityHotspots": 0,
+            "reviewedSecurityHotspots": 0,
+            "distribution": [],
+            "activeRules": 0,
+            "totalRules": 0,
+            "severityLevels": [
+              {
+                "count": 1,
+                "severity": "BLOCKER"
+              },
+              {
+                "count": 5,
+                "severity": "CRITICAL"
+              },
+              {
+                "count": 2,
+                "severity": "MAJOR"
+              },
+              {
+                "count": 3,
+                "severity": "MINOR"
+              },
+              {
+                "count": 4,
+                "severity": "INFO"
+              }
+            ]
+          },
+          {
+            "category": "a2",
+            "vulnerabilities": 0,
+            "inReviewSecurityHotspots": 0,
+            "toReviewSecurityHotspots": 0,
+            "reviewedSecurityHotspots": 0,
+            "distribution": [],
+            "activeRules": 0,
+            "totalRules": 0,
+            "severityLevels": [
+              {
+                "count": 1,
+                "severity": "BLOCKER"
+              },
+              {
+                "count": 0,
+                "severity": "CRITICAL"
+              },
+              {
+                "count": 0,
+                "severity": "MAJOR"
+              },
+              {
+                "count": 0,
+                "severity": "MINOR"
+              },
+              {
+                "count": 0,
+                "severity": "INFO"
+              }
+            ]
+          },
+          {
+            "category": "a3",
+            "vulnerabilities": 7,
+            "inReviewSecurityHotspots": 0,
+            "toReviewSecurityHotspots": 0,
+            "reviewedSecurityHotspots": 0,
+            "distribution": [],
+            "activeRules": 0,
+            "totalRules": 0,
+            "severityLevels": [
+              {
+                "count": 0,
+                "severity": "BLOCKER"
+              },
+              {
+                "count": 1,
+                "severity": "CRITICAL"
+              },
+              {
+                "count": 0,
+                "severity": "MAJOR"
+              },
+              {
+                "count": 0,
+                "severity": "MINOR"
+              },
+              {
+                "count": 0,
+                "severity": "INFO"
+              }
+            ]
+          },
+          {
+            "category": "a4",
+            "vulnerabilities": 0,
+            "inReviewSecurityHotspots": 0,
+            "toReviewSecurityHotspots": 0,
+            "reviewedSecurityHotspots": 0,
+            "distribution": [],
+            "activeRules": 0,
+            "totalRules": 0,
+            "severityLevels": [
+              {
+                "count": 0,
+                "severity": "BLOCKER"
+              },
+              {
+                "count": 0,
+                "severity": "CRITICAL"
+              },
+              {
+                "count": 1,
+                "severity": "MAJOR"
+              },
+              {
+                "count": 0,
+                "severity": "MINOR"
+              },
+              {
+                "count": 0,
+                "severity": "INFO"
+              }
+            ]
+          },
+          {
+            "category": "a5",
+            "vulnerabilities": 2,
+            "inReviewSecurityHotspots": 0,
+            "toReviewSecurityHotspots": 0,
+            "reviewedSecurityHotspots": 0,
+            "distribution": [],
+            "activeRules": 0,
+            "totalRules": 0,
+            "severityLevels": [
+              {
+                "count": 0,
+                "severity": "BLOCKER"
+              },
+              {
+                "count": 0,
+                "severity": "CRITICAL"
+              },
+              {
+                "count": 0,
+                "severity": "MAJOR"
+              },
+              {
+                "count": 1,
+                "severity": "MINOR"
+              },
+              {
+                "count": 0,
+                "severity": "INFO"
+              }
+            ]
+          },
+          {
+            "category": "a6",
+            "vulnerabilities": 2,
+            "inReviewSecurityHotspots": 0,
+            "toReviewSecurityHotspots": 0,
+            "reviewedSecurityHotspots": 0,
+            "distribution": [],
+            "activeRules": 0,
+            "totalRules": 0,
+            "severityLevels": [
+              {
+                "count": 0,
+                "severity": "BLOCKER"
+              },
+              {
+                "count": 0,
+                "severity": "CRITICAL"
+              },
+              {
+                "count": 0,
+                "severity": "MAJOR"
+              },
+              {
+                "count": 0,
+                "severity": "MINOR"
+              },
+              {
+                "count": 1,
+                "severity": "INFO"
+              }
+            ]
+          },
+          {
+            "category": "a7",
+            "vulnerabilities": 0,
+            "inReviewSecurityHotspots": 0,
+            "toReviewSecurityHotspots": 0,
+            "reviewedSecurityHotspots": 0,
+            "distribution": [],
+            "activeRules": 0,
+            "totalRules": 0,
+            "severityLevels": [
+              {
+                "count": 14,
+                "severity": "BLOCKER"
+              },
+              {
+                "count": 0,
+                "severity": "CRITICAL"
+              },
+              {
+                "count": 1,
+                "severity": "MAJOR"
+              },
+              {
+                "count": 0,
+                "severity": "MINOR"
+              },
+              {
+                "count": 2,
+                "severity": "INFO"
+              }
+            ]
+          },
+          {
+            "category": "a8",
+            "vulnerabilities": 22,
+            "inReviewSecurityHotspots": 0,
+            "toReviewSecurityHotspots": 0,
+            "reviewedSecurityHotspots": 0,
+            "distribution": [],
+            "activeRules": 0,
+            "totalRules": 0,
+            "severityLevels": [
+              {
+                "count": 0,
+                "severity": "BLOCKER"
+              },
+              {
+                "count": 5,
+                "severity": "CRITICAL"
+              },
+              {
+                "count": 1,
+                "severity": "MAJOR"
+              },
+              {
+                "count": 0,
+                "severity": "MINOR"
+              },
+              {
+                "count": 10,
+                "severity": "INFO"
+              }
+            ]
+          },
+          {
+            "category": "a9",
+            "vulnerabilities": 0,
+            "inReviewSecurityHotspots": 0,
+            "toReviewSecurityHotspots": 0,
+            "reviewedSecurityHotspots": 0,
+            "distribution": [],
+            "activeRules": 0,
+            "totalRules": 0,
+            "severityLevels": [
+              {
+                "count": 3,
+                "severity": "BLOCKER"
+              },
+              {
+                "count": 0,
+                "severity": "CRITICAL"
+              },
+              {
+                "count": 1,
+                "severity": "MAJOR"
+              },
+              {
+                "count": 4,
+                "severity": "MINOR"
+              },
+              {
+                "count": 0,
+                "severity": "INFO"
+              }
+            ]
+          },
+          {
+            "category": "a10",
+            "vulnerabilities": 0,
+            "inReviewSecurityHotspots": 0,
+            "toReviewSecurityHotspots": 0,
+            "reviewedSecurityHotspots": 0,
+            "distribution": [],
+            "activeRules": 0,
+            "totalRules": 0,
+            "severityLevels": [
+              {
+                "count": 7,
+                "severity": "BLOCKER"
+              },
+              {
+                "count": 5,
+                "severity": "CRITICAL"
+              },
+              {
+                "count": 1,
+                "severity": "MAJOR"
+              },
+              {
+                "count": 0,
+                "severity": "MINOR"
+              },
+              {
+                "count": 1,
+                "severity": "INFO"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "_id": "611d541ccc606448490f4464",
+      "cxp": "CXP 903 2271",
+      "name": "Network model identity converter",
+      "uri": "com.ericsson.oss.mediation.modeling.tools/network-model-identity-converter",
+      "filters": {
+        "cna": "Shared Language Transformation",
+        "csa": "Mediation Adaptions",
+        "cra": "Shared Mediation Components "
+      },
+      "securityReportTotals": {
+        "owaspReportDataList": [
+          {
+            "category": "A1",
+            "vulnerabilities": 0,
+            "vulnerabilityRating": 0,
+            "activeRules": 4,
+            "totalRules": 18,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 1
+              },
+              {
+                "severity": "MINOR",
+                "count": 3
+              },
+              {
+                "severity": "INFO",
+                "count": 5
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 6
+              }
+            ]
+          },
+          {
+            "category": "A2",
+            "vulnerabilities": 0,
+            "vulnerabilityRating": 0,
+            "activeRules": 3,
+            "totalRules": 6,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "category": "A3",
+            "vulnerabilities": 0,
+            "vulnerabilityRating": 0,
+            "activeRules": 8,
+            "totalRules": 29,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "category": "A4",
+            "vulnerabilities": 0,
+            "vulnerabilityRating": 0,
+            "activeRules": 1,
+            "totalRules": 1,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "category": "A5",
+            "vulnerabilities": 0,
+            "vulnerabilityRating": 0,
+            "activeRules": 2,
+            "totalRules": 8,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "category": "A6",
+            "vulnerabilities": 0,
+            "vulnerabilityRating": 0,
+            "activeRules": 4,
+            "totalRules": 20,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "category": "A7",
+            "vulnerabilities": 0,
+            "vulnerabilityRating": 0,
+            "activeRules": 0,
+            "totalRules": 4,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "category": "A8",
+            "vulnerabilities": 0,
+            "vulnerabilityRating": 0,
+            "activeRules": 1,
+            "totalRules": 6,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "category": "A9",
+            "vulnerabilities": 0,
+            "vulnerabilityRating": 0,
+            "activeRules": 2,
+            "totalRules": 3,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "category": "A10",
+            "vulnerabilities": 0,
+            "vulnerabilityRating": 0,
+            "activeRules": 0,
+            "totalRules": 1,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "_id": "611d541ccc606448490f4463",
+      "cxp": "CXP 903 3219",
+      "name": "MOM XML Validator",
+      "uri": "com.ericsson.oss.mediation.modeling.momtools/Mom-Xml-Validator",
+      "filters": {
+        "cna": "Shared Language Transformation",
+        "csa": "Mediation Adaptions",
+        "cra": "Shared Mediation Components "
+      },
+      "securityReportTotals": {
+        "owaspReportDataList": [
+          {
+            "category": "A1",
+            "vulnerabilities": 0,
+            "vulnerabilityRating": 0,
+            "activeRules": 4,
+            "totalRules": 18,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "category": "A2",
+            "vulnerabilities": 0,
+            "vulnerabilityRating": 0,
+            "activeRules": 3,
+            "totalRules": 6,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "category": "A3",
+            "vulnerabilities": 0,
+            "vulnerabilityRating": 0,
+            "activeRules": 8,
+            "totalRules": 29,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "category": "A4",
+            "vulnerabilities": 2,
+            "vulnerabilityRating": 5,
+            "activeRules": 1,
+            "totalRules": 1,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "category": "A5",
+            "vulnerabilities": 0,
+            "vulnerabilityRating": 0,
+            "activeRules": 2,
+            "totalRules": 8,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "category": "A6",
+            "vulnerabilities": 0,
+            "vulnerabilityRating": 0,
+            "activeRules": 4,
+            "totalRules": 20,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "category": "A7",
+            "vulnerabilities": 0,
+            "vulnerabilityRating": 0,
+            "activeRules": 0,
+            "totalRules": 4,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "category": "A8",
+            "vulnerabilities": 0,
+            "vulnerabilityRating": 0,
+            "activeRules": 1,
+            "totalRules": 6,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "category": "A9",
+            "vulnerabilities": 0,
+            "vulnerabilityRating": 0,
+            "activeRules": 2,
+            "totalRules": 3,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "category": "A10",
+            "vulnerabilities": 0,
+            "vulnerabilityRating": 0,
+            "activeRules": 0,
+            "totalRules": 1,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "_id": "611d541bcc606448490f4461",
+      "cxp": "CXP 903 1941",
+      "name": "MIB transformer",
+      "uri": "com.ericsson.oss.mediation.modeling.tools/mib-transformer",
+      "filters": {
+        "cna": "Shared Language Transformation",
+        "csa": "Mediation Adaptions",
+        "cra": "Shared Mediation Components "
+      },
+      "securityReportTotals": {
+        "owaspReportDataList": [
+          {
+            "category": "A1",
+            "vulnerabilities": 0,
+            "vulnerabilityRating": 0,
+            "activeRules": 4,
+            "totalRules": 18,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "category": "A2",
+            "vulnerabilities": 0,
+            "vulnerabilityRating": 0,
+            "activeRules": 3,
+            "totalRules": 6,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "category": "A3",
+            "vulnerabilities": 0,
+            "vulnerabilityRating": 0,
+            "activeRules": 8,
+            "totalRules": 29,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "category": "A4",
+            "vulnerabilities": 1,
+            "vulnerabilityRating": 5,
+            "activeRules": 1,
+            "totalRules": 1,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 1
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "category": "A5",
+            "vulnerabilities": 0,
+            "vulnerabilityRating": 0,
+            "activeRules": 2,
+            "totalRules": 8,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "category": "A6",
+            "vulnerabilities": 0,
+            "vulnerabilityRating": 0,
+            "activeRules": 4,
+            "totalRules": 20,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "category": "A7",
+            "vulnerabilities": 0,
+            "vulnerabilityRating": 0,
+            "activeRules": 0,
+            "totalRules": 4,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "category": "A8",
+            "vulnerabilities": 0,
+            "vulnerabilityRating": 0,
+            "activeRules": 1,
+            "totalRules": 6,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "category": "A9",
+            "vulnerabilities": 0,
+            "vulnerabilityRating": 0,
+            "activeRules": 2,
+            "totalRules": 3,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "category": "A10",
+            "vulnerabilities": 0,
+            "vulnerabilityRating": 0,
+            "activeRules": 0,
+            "totalRules": 1,
+            "severityLevels": [
+              {
+                "severity": "BLOCKER",
+                "count": 0
+              },
+              {
+                "severity": "MAJOR",
+                "count": 0
+              },
+              {
+                "severity": "MINOR",
+                "count": 0
+              },
+              {
+                "severity": "INFO",
+                "count": 0
+              },
+              {
+                "severity": "CRITICAL",
+                "count": 0
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+    "security_ratings": [
+      {
+        "rating": "A",
+        "requiredVulnerability": {
+          "count": 0,
+          "severity": "NONE"
+        }
+      },
+      {
+        "rating": "B",
+        "requiredVulnerability": {
+          "count": 1,
+          "severity": "MINOR"
+        }
+      },
+      {
+        "rating": "C",
+        "requiredVulnerability": {
+          "count": 1,
+          "severity": "MAJOR"
+        }
+      },
+      {
+        "rating": "D",
+        "requiredVulnerability": {
+          "count": 1,
+          "severity": "CRITICAL"
+        }
+      },
+      {
+        "rating": "E",
+        "requiredVulnerability": {
+          "count": 1,
+          "severity": "BLOCKER"
+        }
+      }
+    ]
+  }
